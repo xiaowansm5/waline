@@ -108,6 +108,6 @@
     "@vitejs/plugin-vue": "4.5.1",
     "recaptcha-v3": "1.10.0",
     "user-agent-data-types": "0.4.2",
-    "vite": "5.0.5"
+    "vite": "5.0.6"
   }
 }
